@@ -1,0 +1,7 @@
+C:\Users\ktuser\Desktop\abhamid\CollabCPPandCS\CollabCPPandCS\bin\Debug\CollabCPPandCS.exe
+C:\Users\ktuser\Desktop\abhamid\CollabCPPandCS\CollabCPPandCS\bin\Debug\CollabCPPandCS.pdb
+C:\Users\ktuser\Desktop\abhamid\CollabCPPandCS\CollabCPPandCS\obj\x86\Debug\CollabCPPandCS.exe
+C:\Users\ktuser\Desktop\abhamid\CollabCPPandCS\CollabCPPandCS\obj\x86\Debug\CollabCPPandCS.pdb
+C:\Users\ktuser\Desktop\abhamid\CollabCPPandCS\CollabCPPandCS\obj\x86\Debug\CollabCPPandCS.csprojResolveAssemblyReference.cache
+C:\Users\ktuser\Desktop\abhamid\CollabCPPandCS\CollabCPPandCS\obj\x86\Debug\CollabCPPandCS.Calculator_1.resources
+C:\Users\ktuser\Desktop\abhamid\CollabCPPandCS\CollabCPPandCS\obj\x86\Debug\CollabCPPandCS.csproj.GenerateResource.Cache
